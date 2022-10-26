@@ -1,0 +1,24 @@
+.main-Button {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 14px;
+}
+
+button {
+  align-items: center;
+  display: flex;
+  border: 1px solid #D1D5DD;
+  border-radius: 4px;
+  justify-content: center;
+  width: 230px;
+}
+
+h4 {
+  font-weight: 500;
+  padding: 8px;
+}
+
+button > img {
+  width: 14px;
+}

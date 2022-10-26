@@ -1,0 +1,10 @@
+.main--JobTitle {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+h5 {
+  color: #D8AB8A;
+  font-weight: 100;
+}

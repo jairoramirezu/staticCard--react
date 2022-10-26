@@ -1,0 +1,6 @@
+.profilePic {
+  border-radius: 15px 15px 0px 0px;
+  object-fit: cover;
+  height: 280px;
+  width: inherit;
+}

@@ -1,0 +1,15 @@
+.main--Footer {
+  align-items: center;
+  background-color: #161619;
+  border-radius: 0px 0px 15px 15px;
+  display: flex;
+  justify-content: space-around;
+  height: 64px;
+  margin-top: 30px;
+}
+
+.main--Footer > div > img {
+  margin: 10px;
+  height: 25px;
+  width: 25px;
+}

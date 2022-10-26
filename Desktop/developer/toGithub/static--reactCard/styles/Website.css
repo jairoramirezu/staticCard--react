@@ -1,0 +1,11 @@
+.main--Website {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+h6 {
+  color: #A2A3A5;
+  font-weight: 100;
+  padding: 10px;
+}

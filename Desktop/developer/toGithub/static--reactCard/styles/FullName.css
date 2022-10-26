@@ -1,0 +1,12 @@
+.main--FullName {
+  align-items: center;
+  display: flex;
+  font-weight: 400px;
+  justify-content: center;
+  padding: 15px 15px 0px;
+}
+
+h3 {
+  color: white;
+  font-size: 26px;
+}
